@@ -13,7 +13,7 @@ package org.zmf.assistant.java;
  * @email zhumingfa@zju.edu.cn
  * 
  */
-public class GcdAdnLcm {
+public class GcdAndLcm {
 
 	/**
 	 * 辗转相除法求最大公约数：辗转相除法是古希腊求两个正整数的最大公约数的，也叫欧几里德算法，其方法是用较大的数除以较小的数，
